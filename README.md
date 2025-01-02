@@ -1,7 +1,5 @@
-# MemoSphere-A-digital-sphere-for-your-memories.
+# MemoSphere - A digital-sphere-for-your-memories.
 Step into the sphere of memories where every moment is timeless. Share, cherish, and connect through stories that matter most to you.
-# Memory Lane - A Full Stack MERN Application
-
 Using **React**, **Node.js**, **Express**, and **MongoDB**, this project is a comprehensive Full Stack MERN application built from start to finish. The app, called **"Memory Lane"**, is a simple social media platform that enables users to post and share interesting events from their lives.
 
 ---
